@@ -52,9 +52,8 @@ export default function Home({ posts }) {
             This is a personal blog fetched with 
             {" "}
             <a href="https://github.com/samuelkraft/notion-blog-nextjs">
-              Notion
-            </a>{" "}
-            , I use it to practice my writing skill and have fun.
+              Notion,
+            </a>{" "} I use it to practice my writing skill and have fun.
           </p>
         </header>
 
