@@ -10,7 +10,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Writing Practice</title>
+        <title>Thinking Practice</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -47,13 +47,9 @@ export default function Home({ posts }) {
               </g>
             </svg>
           </div>
-          <h1>Writing Practice</h1>
+          <h1>Thinking Practice</h1>
           <p>
-            This is a personal blog fetched with 
-            {" "}
-            <a href="https://github.com/samuelkraft/notion-blog-nextjs">
-              Notion,
-            </a>{" "} I use it to practice my writing skill and have fun.
+            对无用之事的归档。
           </p>
         </header>
 
